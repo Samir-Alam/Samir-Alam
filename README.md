@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/samiralam00" target="blank"><img src="https://img.shields.io/twitter/follow/samiralam00?logo=twitter&style=for-the-badge" alt="samiralam00" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Blockchain wallet**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **Web Development, Java, DS & Algo**
 
