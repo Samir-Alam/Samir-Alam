@@ -59,6 +59,8 @@
     <img src="https://streak-stats.demolab.com?user=Samir-Alam&theme=default"/>
 </picture>
 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Samir-Alam&theme=dark)](https://git.io/streak-stats) -->
+
 <br/>
 
 ## 🎖️ Overview
