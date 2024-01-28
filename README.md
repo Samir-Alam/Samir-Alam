@@ -43,10 +43,26 @@
 <p><a href="https://www.buymeacoffee.com/samiralammk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="samiralammk" /></a><a href="https://ko-fi.com/samir_kofi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="samir_kofi" /></a></p><br><br>
 <br>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Alam)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samir-alam&show_icons=true&locale=en" alt="samir-alam" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samir-alam&" alt="samir-alam" /></p>
+## 📊 Stats
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samir-Alam)
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Samir-Alam&show_icons=true&theme=codeSTACKr&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Alam&layout=compact&show_icons=true&theme=codeSTACKr" />
+</div>
+
+<br/>
+
+## 🔥 Streak
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Samir-Alam&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Samir-Alam&theme=default"/>
+</picture>
+
+<br/>
+
+## 🎖️ Overview
+
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samir-Alam&theme=dark)
 
 [![An image of @samiralam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samiralam)](https://holopin.io/@samiralam)
