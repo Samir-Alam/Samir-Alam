@@ -55,11 +55,11 @@
 ## 🔥 Streak
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Samir-Alam&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Samir-Alam&theme=codeSTACKr" />
     <img src="https://streak-stats.demolab.com?user=Samir-Alam&theme=default"/>
 </picture>
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Samir-Alam&theme=dark)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samir-Alam&theme=dark)](https://git.io/streak-stats) -->
 
 <br/>
 
