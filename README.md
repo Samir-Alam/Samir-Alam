@@ -34,9 +34,9 @@
 <a href="https://www.leetcode.com/samir_alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir_alam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/samiralammumtazalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samiralammumtazalam" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/wzjf7TVA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wzjf7TVA" height="30" width="40" /></a>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 </p>
 
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
