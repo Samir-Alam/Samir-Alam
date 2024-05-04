@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **Blockchain wallet** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clutch%20Bag.png" alt="Clutch Bag" width="45" height="45" />
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **Web Development, Java, DS & Algo**
+- 💬 Ask me about **Web Development, Blockchain Java, DS & Algo**
 
 - 📫 How to reach me **samiralam6310@gmail.com**
 
