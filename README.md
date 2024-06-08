@@ -5,7 +5,7 @@
 <h3 align="center">An Engineering student <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="45" height="45" /> skilled in WEB Development <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="45" height="45" /> and Java <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="45" height="45" /> from India</h3>
 <h3 align="center">Passionate about Blockchain and cutting GenAI <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="45" height="45" /></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samir-alam&label=Profile%20views&color=0e75b6&style=flat" alt="samir-alam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samir-alam&label=Profile%20views&color=0e75b6&style=flat" alt="samir-alam" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samir-alam" alt="samir-alam" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
